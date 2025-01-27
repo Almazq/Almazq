@@ -31,4 +31,7 @@
 
 ---
 
+![Посетители профиля](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Almazq&title=Просмотры)
+
+
 Спасибо, что заглянули! 😄
